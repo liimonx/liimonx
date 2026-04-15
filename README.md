@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Limon%20Khan&fontSize=75&fontColor=7aa2f7&fontAlignY=35&desc=Senior%20Frontend%20Architect%20%7C%20Design%20Systems%20%26%20Interactive%20UI&descSize=18&descColor=a9b1d6&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=220&section=header&text=Limon%20Khan&fontSize=75&fontColor=7aa2f7&fontAlignY=35&desc=Senior%20Frontend%20Architect%20%7C%20Design%20Systems%20%26amp%3B%20Interactive%20UI&descSize=18&descColor=a9b1d6&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
@@ -104,7 +104,7 @@ const limon = {
 <div align="center">
 
 <a href="https://github.com/Shohojdhara/atomix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shohojdhara&repo=atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shohojdhara&repo=atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 
 <br/>
@@ -149,24 +149,24 @@ npm install @shohojdhara/atomix
 <div align="center">
 
 <a href="https://github.com/Shohojdhara/atomix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shohojdhara&repo=atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shohojdhara&repo=atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 <a href="https://github.com/liimonx/docs-atomix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=liimonx&repo=docs-atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liimonx&repo=docs-atomix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 
 <a href="https://github.com/liimonx/360-degree-product-Image-viewer-experiment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=liimonx&repo=360-degree-product-Image-viewer-experiment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liimonx&repo=360-degree-product-Image-viewer-experiment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 <a href="https://github.com/liimonx/SliderZero">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=liimonx&repo=SliderZero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liimonx&repo=SliderZero&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 
 <a href="https://github.com/liimonx/ISP-Admin-Panel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=liimonx&repo=ISP-Admin-Panel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liimonx&repo=ISP-Admin-Panel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 <a href="https://github.com/liimonx/Team-profile-slider">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=liimonx&repo=Team-profile-slider&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=liimonx&repo=Team-profile-slider&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" />
 </a>
 
 </div>
@@ -232,12 +232,12 @@ Teams struggle with **inconsistent UI**, slow development, and **messy CSS** acr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=liimonx&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&count_private=true&ring_color=7aa2f7" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=liimonx&hide_border=true&theme=tokyonight&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liimonx&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&count_private=true&ring_color=7aa2f7" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=liimonx&hide_border=true&theme=tokyonight&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liimonx&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liimonx&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 

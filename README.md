@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,30:0f1624,60:151b2e,100:1a2340&height=280&section=header&text=Limon%20Khan&fontSize=80&fontColor=7aa2f7&fontAlignY=40&desc=Frontend%20Architect%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Motion%20Engineering&descSize=17&descColor=a9b1d6&descAlignY=60&animation=twinkling&reversal=false&stroke=7aa2f7&strokeWidth=1" />
 
 <div align="center">
 
@@ -309,8 +308,3 @@ atomix/
 
 </div>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a2340,50:151b2e,100:0d1117&height=140&section=footer&reversal=true&stroke=7aa2f7&strokeWidth=1" width="100%" />
-</div>
